@@ -6,12 +6,12 @@ Welcome to my Data Structures in C repository! This project is a comprehensive c
 
 By building these data structures from the ground up, I've focused on efficiency, clarity, and adherence to best practices in C programming. Each implementation is accompanied by detailed comments and explanations to make it easy to follow and understand.
 
-Whether you're a fellow student, an educator, or a developer looking to brush up on your C skills, I hope you find this repository helpful and insightful. Feel free to explore the code, contribute, or reach out if you have any questions or suggestions!
+Whether you're a fellow student, an educator, or a developer looking to brush up on your C skills, I hope you find this repository helpful and insightful. Feel free to explore the code, contribute, or reach out if you have any questions or suggestions.
 
 Happy coding!
 
 
-## Data Structures
+## Implemented Data Structures
 
 
 ### Linear Data Structures
@@ -22,9 +22,9 @@ Happy coding!
 - **Linked Lists**
     - [X] Singly Linked List
     - [X] Doubly Linked List
-- [ ] **Stacks**
+- [X] **Stacks**
 - **Queues**
-    - [ ] Simple Queue
+    - [X] Simple Queue
     - [ ] Circular Queue
     - [ ] Priority Queue
     - [ ] Deque (Double-ended Queue)
@@ -35,10 +35,14 @@ Happy coding!
     - [ ] Hash Maps
     - [ ] Hash Sets
 
+
 ### Trees
 
 - **Binary Trees**
     - [ ] Binary Search Tree (BST)
+
+
+## TODO
 - **Self-Balancing Binary Search Trees**
     - [ ] AVL Tree
     - [ ] Red-Black Tree
@@ -54,44 +58,17 @@ Happy coding!
     - [ ] B-tree
     - [ ] B+ tree
 
+
 ### Graphs
 
 - **Graph Representations**
     - [ ] Adjacency Matrix
     - [ ] Adjacency List
     - [ ] Incidence Matrix
-- **Special Graphs**
-    - [ ] Directed Graph (Digraph)
-    - [ ] Undirected Graph
-    - [ ] Weighted Graph
-    - [ ] Unweighted Graph
-    - [ ] Cyclic Graph
-    - [ ] Acyclic Graph
-    - [ ] Tree (a special kind of graph)
-    - [ ] Directed Acyclic Graph (DAG)
 
-### Non-linear Data Structures
-
-- **Sets**
-    - [ ] Union-Find (Disjoint Set)
+### Others
 - [ ] **Bloom Filter**
-
-### Advanced and Specialized Data Structures
-
 - [ ] **Skip List**
-- **Segment Tree**
-    - [ ] Persistent Segment Tree
-- [ ] **Fenwick Tree (Binary Indexed Tree)**
-- [ ] **Suffix Tree**
-- [ ] **Suffix Array**
-- [ ] **K-d Tree (k-dimensional tree)**
 - [ ] **Quad Tree**
-- [ ] **Octree**
-- [ ] **Sparse Table**
-
-### Other Structures
-
 - [ ] **Rope**
-- [ ] **Doubly Connected Edge List (DCEL)**
 - [ ] **Treap**
-- [ ] **Interval Tree**
