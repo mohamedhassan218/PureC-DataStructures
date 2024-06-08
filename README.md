@@ -20,79 +20,78 @@ Happy coding!
     - [X] Static Arrays
     - [X] Dynamic Arrays
 - **Linked Lists**
-    - Singly Linked List
-    - Doubly Linked List
-    - Circular Linked List
-- **Stacks**
+    - [X] Singly Linked List
+    - [X] Doubly Linked List
+- [ ] **Stacks**
 - **Queues**
-    - Simple Queue
-    - Circular Queue
-    - Priority Queue
-    - Deque (Double-ended Queue)
+    - [ ] Simple Queue
+    - [ ] Circular Queue
+    - [ ] Priority Queue
+    - [ ] Deque (Double-ended Queue)
 
 ### Hash-based Structures
 
 - **Hash Tables**
-    - Hash Maps
-    - Hash Sets
+    - [ ] Hash Maps
+    - [ ] Hash Sets
 
 ### Trees
 
 - **Binary Trees**
-    - Binary Search Tree (BST)
+    - [ ] Binary Search Tree (BST)
 - **Self-Balancing Binary Search Trees**
-    - AVL Tree
-    - Red-Black Tree
-    - Splay Tree
+    - [ ] AVL Tree
+    - [ ] Red-Black Tree
+    - [ ] Splay Tree
 - **Heaps**
     - Binary Heap
-        - Min-Heap
-        - Max-Heap
-    - Fibonacci Heap
-    - Binomial Heap
-- **Trie (Prefix Tree)**
-- **B-trees**
-    - B-tree
-    - B+ tree
+        - [ ] Min-Heap
+        - [ ] Max-Heap
+    - [ ] Fibonacci Heap
+    - [ ] Binomial Heap
+- [ ] **Trie (Prefix Tree)**
+- [ ] **B-trees**
+    - [ ] B-tree
+    - [ ] B+ tree
 
 ### Graphs
 
 - **Graph Representations**
-    - Adjacency Matrix
-    - Adjacency List
-    - Incidence Matrix
+    - [ ] Adjacency Matrix
+    - [ ] Adjacency List
+    - [ ] Incidence Matrix
 - **Special Graphs**
-    - Directed Graph (Digraph)
-    - Undirected Graph
-    - Weighted Graph
-    - Unweighted Graph
-    - Cyclic Graph
-    - Acyclic Graph
-    - Tree (a special kind of graph)
-    - Directed Acyclic Graph (DAG)
+    - [ ] Directed Graph (Digraph)
+    - [ ] Undirected Graph
+    - [ ] Weighted Graph
+    - [ ] Unweighted Graph
+    - [ ] Cyclic Graph
+    - [ ] Acyclic Graph
+    - [ ] Tree (a special kind of graph)
+    - [ ] Directed Acyclic Graph (DAG)
 
 ### Non-linear Data Structures
 
 - **Sets**
-    - Union-Find (Disjoint Set)
-- **Bloom Filter**
+    - [ ] Union-Find (Disjoint Set)
+- [ ] **Bloom Filter**
 
 ### Advanced and Specialized Data Structures
 
-- **Skip List**
+- [ ] **Skip List**
 - **Segment Tree**
-    - Persistent Segment Tree
-- **Fenwick Tree (Binary Indexed Tree)**
-- **Suffix Tree**
-- **Suffix Array**
-- **K-d Tree (k-dimensional tree)**
-- **Quad Tree**
-- **Octree**
-- **Sparse Table**
+    - [ ] Persistent Segment Tree
+- [ ] **Fenwick Tree (Binary Indexed Tree)**
+- [ ] **Suffix Tree**
+- [ ] **Suffix Array**
+- [ ] **K-d Tree (k-dimensional tree)**
+- [ ] **Quad Tree**
+- [ ] **Octree**
+- [ ] **Sparse Table**
 
 ### Other Structures
 
-- **Rope**
-- **Doubly Connected Edge List (DCEL)**
-- **Treap**
-- **Interval Tree**
+- [ ] **Rope**
+- [ ] **Doubly Connected Edge List (DCEL)**
+- [ ] **Treap**
+- [ ] **Interval Tree**
