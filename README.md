@@ -16,30 +16,29 @@ Happy coding!
 
 ### Linear Data Structures
     
-- **Arrays**
-    - [X] Static Arrays
-    - [X] Dynamic Arrays
-- **Linked Lists**
-    - [X] Singly Linked List
-    - [X] Doubly Linked List
+- [X] **Arrays**
+    - Static Arrays
+    - Dynamic Arrays
+- [X] **Linked Lists**
+    - Singly Linked List
+    - Doubly Linked List
 - [X] **Stacks**
-- **Queues**
-    - [X] Simple Queue
-    - [ ] Circular Queue
-    - [ ] Priority Queue
-    - [ ] Deque (Double-ended Queue)
+- [X] **Queues**
+    - Simple Queue
+    - Circular Queue
+
 
 ### Hash-based Structures
 
-- **Hash Tables**
-    - [ ] Hash Maps
-    - [ ] Hash Sets
+- [ ] **Hash Tables**
+    - Hash Maps
+    - Hash Sets
 
 
 ### Trees
 
-- **Binary Trees**
-    - [ ] Binary Search Tree (BST)
+- [ ] **Binary Search Tree (BST)**
+- [ ] **Graph**
 
 
 ## TODO
@@ -54,17 +53,10 @@ Happy coding!
     - [ ] Fibonacci Heap
     - [ ] Binomial Heap
 - [ ] **Trie (Prefix Tree)**
-- [ ] **B-trees**
+- **B-trees**
     - [ ] B-tree
     - [ ] B+ tree
 
-
-### Graphs
-
-- **Graph Representations**
-    - [ ] Adjacency Matrix
-    - [ ] Adjacency List
-    - [ ] Incidence Matrix
 
 ### Others
 - [ ] **Bloom Filter**
