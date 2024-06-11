@@ -16,29 +16,29 @@ Happy coding!
 
 ### Linear Data Structures
     
-- [X] **Arrays**
+- **Arrays**
     - Static Arrays
     - Dynamic Arrays
-- [X] **Linked Lists**
+- **Linked Lists**
     - Singly Linked List
     - Doubly Linked List
-- [X] **Stacks**
-- [X] **Queues**
+- **Stacks**
+- **Queues**
     - Simple Queue
     - Circular Queue
 
 
-### Hash-based Structures
-
-- [ ] **Hash Tables**
-    - Hash Maps
-    - Hash Sets
-
-
 ### Trees
 
-- [ ] **Binary Search Tree (BST)**
+- **Binary Search Tree (BST)**
 - [ ] **Graph**
+
+
+### Hash-based Structures
+
+- **Hash Tables**
+    - [ ] Hash Maps
+    - [ ] Hash Sets
 
 
 ## TODO
