@@ -6,7 +6,7 @@ Welcome to my Data Structures in C repository! This project is a comprehensive c
 
 By building these data structures from the ground up, I've focused on efficiency, clarity, and adherence to best practices in C programming. Each implementation is accompanied by detailed comments and explanations to make it easy to follow and understand.
 
-Whether you're a fellow student, an educator, or a developer looking to brush up on your C skills, I hope you find this repository helpful and insightful. Feel free to explore the code, contribute, or reach out if you have any questions or suggestions.
+Whether you're a student, an educator, or a developer looking to brush up on your C skills, I hope you find this repository helpful and insightful. Feel free to explore the code, contribute, or reach out if you have any questions or suggestions.
 
 If you're interested in adding a new implementation for an existing data structure or tackling one from our to-do list, I really welcome your pull request.
 
